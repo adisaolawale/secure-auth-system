@@ -1,0 +1,189 @@
+{"level":"info","message":"✅ Database connected successfully","timestamp":"2026-05-06 15:37:18"}
+{"level":"info","message":"✅ Redis connected successfully","timestamp":"2026-05-06 15:37:19"}
+{"level":"info","message":"🚀 Server running on port 3000","timestamp":"2026-05-06 15:37:19"}
+{"level":"info","message":"✅ Database connected successfully","timestamp":"2026-05-06 15:41:45"}
+{"level":"info","message":"✅ Redis connected successfully","timestamp":"2026-05-06 15:41:46"}
+{"level":"info","message":"🚀 Server running on port 3000","timestamp":"2026-05-06 15:41:46"}
+{"isOperational":true,"level":"error","statusCode":400,"timestamp":"2026-05-06 15:42:32"}
+{"isOperational":true,"level":"error","statusCode":400,"timestamp":"2026-05-06 15:44:15"}
+{"level":"info","message":"✅ Database connected successfully","timestamp":"2026-05-06 16:30:05"}
+{"level":"info","message":"✅ Redis connected successfully","timestamp":"2026-05-06 16:30:06"}
+{"level":"info","message":"🚀 Server running on port 3000","timestamp":"2026-05-06 16:30:06"}
+{"level":"info","message":"✅ Database connected successfully","timestamp":"2026-05-06 16:58:51"}
+{"level":"info","message":"✅ Redis connected successfully","timestamp":"2026-05-06 16:58:56"}
+{"level":"info","message":"🚀 Server running on port 3000","timestamp":"2026-05-06 16:58:57"}
+{"level":"info","message":"✅ Database connected successfully","timestamp":"2026-05-06 17:18:06"}
+{"level":"info","message":"✅ Redis connected successfully","timestamp":"2026-05-06 17:18:07"}
+{"level":"info","message":"🚀 Server running on port 3000","timestamp":"2026-05-06 17:18:07"}
+{"level":"info","message":"✅ Database connected successfully","timestamp":"2026-05-07 09:24:18"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 09:24:18"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 09:24:19"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 09:24:19"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 09:24:19"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 09:24:19"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 09:24:20"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 09:24:22"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 09:24:24"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 09:24:26"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 09:24:28"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 09:24:30"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 09:24:32"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 09:24:34"}
+{"level":"info","message":"✅ Database connected successfully","timestamp":"2026-05-07 09:25:26"}
+{"level":"info","message":"✅ Redis connected successfully","timestamp":"2026-05-07 09:25:26"}
+{"level":"info","message":"🚀 Server running on port 3000","timestamp":"2026-05-07 09:25:26"}
+{"level":"info","message":"✅ Database connected successfully","timestamp":"2026-05-07 09:56:15"}
+{"level":"info","message":"✅ Redis connected successfully","timestamp":"2026-05-07 09:56:17"}
+{"level":"info","message":"🚀 Server running on port 3000","timestamp":"2026-05-07 09:56:17"}
+{"level":"info","message":"✅ Database connected successfully","timestamp":"2026-05-07 10:03:06"}
+{"level":"info","message":"✅ Redis connected successfully","timestamp":"2026-05-07 10:03:07"}
+{"level":"info","message":"🚀 Server running on port 3000","timestamp":"2026-05-07 10:03:07"}
+{"level":"info","message":"✅ Database connected successfully","timestamp":"2026-05-07 10:12:21"}
+{"level":"info","message":"✅ Redis connected successfully","timestamp":"2026-05-07 10:12:22"}
+{"level":"info","message":"🚀 Server running on port 3000","timestamp":"2026-05-07 10:12:22"}
+{"level":"info","message":"✅ Database connected successfully","timestamp":"2026-05-07 10:25:24"}
+{"level":"info","message":"✅ Redis connected successfully","timestamp":"2026-05-07 10:25:24"}
+{"level":"info","message":"🚀 Server running on port 3000","timestamp":"2026-05-07 10:25:24"}
+{"level":"info","message":"✅ Database connected successfully","timestamp":"2026-05-07 10:41:42"}
+{"level":"info","message":"✅ Redis connected successfully","timestamp":"2026-05-07 10:41:42"}
+{"level":"info","message":"🚀 Server running on port 3000","timestamp":"2026-05-07 10:41:42"}
+{"level":"info","message":"✅ Database connected successfully","timestamp":"2026-05-07 10:43:54"}
+{"level":"info","message":"✅ Redis connected successfully","timestamp":"2026-05-07 10:43:56"}
+{"level":"info","message":"🚀 Server running on port 3000","timestamp":"2026-05-07 10:43:58"}
+{"level":"info","message":"✅ Database connected successfully","timestamp":"2026-05-07 10:52:12"}
+{"level":"info","message":"✅ Redis connected successfully","timestamp":"2026-05-07 10:52:13"}
+{"level":"info","message":"🚀 Server running on port 3000","timestamp":"2026-05-07 10:52:13"}
+{"level":"info","message":"✅ Database connected successfully","timestamp":"2026-05-07 11:04:02"}
+{"level":"info","message":"✅ Redis connected successfully","timestamp":"2026-05-07 11:04:03"}
+{"level":"info","message":"🚀 Server running on port 3000","timestamp":"2026-05-07 11:04:03"}
+{"level":"info","message":"✅ Database connected successfully","timestamp":"2026-05-07 11:15:50"}
+{"level":"info","message":"✅ Redis connected successfully","timestamp":"2026-05-07 11:15:51"}
+{"level":"info","message":"🚀 Server running on port 3000","timestamp":"2026-05-07 11:15:51"}
+{"level":"info","message":"✅ Database connected successfully","timestamp":"2026-05-07 12:26:55"}
+{"level":"info","message":"✅ Redis connected successfully","timestamp":"2026-05-07 12:26:57"}
+{"level":"info","message":"🚀 Server running on port 3000","timestamp":"2026-05-07 12:26:57"}
+{"level":"info","message":"✅ Database connected successfully","timestamp":"2026-05-07 12:47:32"}
+{"level":"info","message":"✅ Redis connected successfully","timestamp":"2026-05-07 12:47:32"}
+{"level":"info","message":"🚀 Server running on port 3000","timestamp":"2026-05-07 12:47:32"}
+{"level":"info","message":"✅ Database connected successfully","timestamp":"2026-05-07 12:51:32"}
+{"level":"info","message":"✅ Redis connected successfully","timestamp":"2026-05-07 12:51:33"}
+{"level":"info","message":"🚀 Server running on port 3000","timestamp":"2026-05-07 12:51:33"}
+{"level":"info","message":"✅ Database connected successfully","timestamp":"2026-05-07 15:47:44"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 15:47:44"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 15:47:45"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 15:47:45"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 15:47:45"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 15:47:46"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 15:47:47"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 15:47:48"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 15:47:50"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 15:47:52"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 15:47:55"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 15:47:57"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 15:47:59"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 15:48:01"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 15:48:03"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 15:48:05"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 15:48:07"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 15:48:09"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 15:48:12"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 15:48:14"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 15:48:16"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 15:48:18"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 15:48:20"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 15:48:22"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 15:48:24"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 15:48:26"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-05-07 15:48:28"}
+{"level":"info","message":"✅ Database connected successfully","timestamp":"2026-05-07 15:52:43"}
+{"level":"info","message":"✅ Redis connected successfully","timestamp":"2026-05-07 15:52:44"}
+{"level":"info","message":"🚀 Server running on port 3000","timestamp":"2026-05-07 15:52:44"}
+{"level":"info","message":"✅ Database connected successfully","timestamp":"2026-05-07 15:59:08"}
+{"level":"info","message":"✅ Redis connected successfully","timestamp":"2026-05-07 15:59:08"}
+{"level":"info","message":"🚀 Server running on port 3000","timestamp":"2026-05-07 15:59:08"}
+{"level":"info","message":"✅ Database connected successfully","timestamp":"2026-05-07 16:08:52"}
+{"level":"info","message":"✅ Redis connected successfully","timestamp":"2026-05-07 16:08:52"}
+{"level":"info","message":"🚀 Server running on port 3000","timestamp":"2026-05-07 16:08:52"}
+{"level":"info","message":"✅ Database connected successfully","timestamp":"2026-05-07 16:18:12"}
+{"level":"info","message":"✅ Redis connected successfully","timestamp":"2026-05-07 16:18:12"}
+{"level":"info","message":"🚀 Server running on port 3000","timestamp":"2026-05-07 16:18:13"}
+{"level":"info","message":"✅ Database connected successfully","timestamp":"2026-05-07 16:32:27"}
+{"level":"info","message":"✅ Redis connected successfully","timestamp":"2026-05-07 16:32:28"}
+{"level":"info","message":"🚀 Server running on port 3000","timestamp":"2026-05-07 16:32:28"}
+{"level":"info","message":"✅ Database connected successfully","timestamp":"2026-05-07 16:41:23"}
+{"level":"info","message":"✅ Redis connected successfully","timestamp":"2026-05-07 16:41:24"}
+{"level":"info","message":"🚀 Server running on port 3000","timestamp":"2026-05-07 16:41:24"}
+{"level":"info","message":"✅ Database connected successfully","timestamp":"2026-05-07 16:52:28"}
+{"level":"info","message":"✅ Redis connected successfully","timestamp":"2026-05-07 16:52:29"}
+{"level":"info","message":"🚀 Server running on port 3000","timestamp":"2026-05-07 16:52:29"}
+{"level":"info","message":"✅ Database connected successfully","timestamp":"2026-05-08 06:47:49"}
+{"level":"info","message":"✅ Redis connected successfully","timestamp":"2026-05-08 06:47:51"}
+{"level":"info","message":"🚀 Server running on port 3000","timestamp":"2026-05-08 06:47:51"}
+{"level":"info","message":"✅ Database connected successfully","timestamp":"2026-05-08 07:14:37"}
+{"level":"info","message":"✅ Redis connected successfully","timestamp":"2026-05-08 07:14:41"}
+{"level":"info","message":"🚀 Server running on port 3000","timestamp":"2026-05-08 07:14:41"}
+{"level":"info","message":"✅ Database connected successfully","timestamp":"2026-05-08 07:15:59"}
+{"level":"info","message":"✅ Redis connected successfully","timestamp":"2026-05-08 07:16:01"}
+{"level":"info","message":"🚀 Server running on port 3000","timestamp":"2026-05-08 07:16:01"}
+{"level":"info","message":"✅ Database connected successfully","timestamp":"2026-05-08 07:18:23"}
+{"level":"info","message":"✅ Redis connected successfully","timestamp":"2026-05-08 07:18:23"}
+{"level":"info","message":"🚀 Server running on port 3000","timestamp":"2026-05-08 07:18:23"}
+{"level":"info","message":"✅ Database connected successfully","timestamp":"2026-05-08 07:21:55"}
+{"level":"info","message":"✅ Redis connected successfully","timestamp":"2026-05-08 07:21:55"}
+{"level":"info","message":"🚀 Server running on port 3000","timestamp":"2026-05-08 07:21:55"}
+{"level":"info","message":"✅ Database connected successfully","timestamp":"2026-05-08 07:22:12"}
+{"level":"info","message":"✅ Redis connected successfully","timestamp":"2026-05-08 07:22:12"}
+{"level":"info","message":"🚀 Server running on port 3000","timestamp":"2026-05-08 07:22:12"}
+{"level":"info","message":"✅ Database connected successfully","timestamp":"2026-05-08 07:24:38"}
+{"level":"info","message":"✅ Redis connected successfully","timestamp":"2026-05-08 07:24:38"}
+{"level":"info","message":"🚀 Server running on port 3000","timestamp":"2026-05-08 07:24:38"}
+{"level":"info","message":"✅ Database connected successfully","timestamp":"2026-05-08 07:26:59"}
+{"level":"info","message":"✅ Redis connected successfully","timestamp":"2026-05-08 07:26:59"}
+{"level":"info","message":"🚀 Server running on port 3000","timestamp":"2026-05-08 07:26:59"}
+{"level":"info","message":"✅ Database connected successfully","timestamp":"2026-05-08 07:40:39"}
+{"level":"info","message":"✅ Redis connected successfully","timestamp":"2026-05-08 07:40:40"}
+{"level":"info","message":"🚀 Server running on port 3000","timestamp":"2026-05-08 07:40:40"}
+{"level":"info","message":"✅ Database connected successfully","timestamp":"2026-05-08 07:44:02"}
+{"level":"info","message":"✅ Redis connected successfully","timestamp":"2026-05-08 07:44:04"}
+{"level":"info","message":"🚀 Server running on port 3000","timestamp":"2026-05-08 07:44:04"}
+{"level":"info","message":"✅ Database connected successfully","timestamp":"2026-05-08 07:48:19"}
+{"level":"info","message":"✅ Redis connected successfully","timestamp":"2026-05-08 07:48:19"}
+{"level":"info","message":"🚀 Server running on port 3000","timestamp":"2026-05-08 07:48:19"}
+{"level":"info","message":"✅ Database connected successfully","timestamp":"2026-05-08 08:11:14"}
+{"level":"info","message":"✅ Redis connected successfully","timestamp":"2026-05-08 08:11:16"}
+{"level":"info","message":"🚀 Server running on port 3000","timestamp":"2026-05-08 08:11:17"}
+{"isOperational":true,"level":"error","statusCode":400,"timestamp":"2026-05-08 08:14:13"}
+{"level":"info","message":"✅ Database connected successfully","timestamp":"2026-05-08 08:18:30"}
+{"level":"info","message":"✅ Redis connected successfully","timestamp":"2026-05-08 08:18:31"}
+{"level":"info","message":"🚀 Server running on port 3000","timestamp":"2026-05-08 08:18:31"}
+{"level":"info","message":"✅ Database connected successfully","timestamp":"2026-05-08 08:27:22"}
+{"level":"info","message":"✅ Redis connected successfully","timestamp":"2026-05-08 08:27:23"}
+{"level":"info","message":"🚀 Server running on port 3000","timestamp":"2026-05-08 08:27:23"}
+{"level":"info","message":"✅ Database connected successfully","timestamp":"2026-05-08 08:35:08"}
+{"level":"info","message":"✅ Redis connected successfully","timestamp":"2026-05-08 08:35:08"}
+{"level":"info","message":"🚀 Server running on port 3000","timestamp":"2026-05-08 08:35:08"}
+{"level":"info","message":"✅ Database connected successfully","timestamp":"2026-05-08 12:52:00"}
+{"level":"info","message":"✅ Redis connected successfully","timestamp":"2026-05-08 12:52:03"}
+{"level":"info","message":"🚀 Server running on port 3000","timestamp":"2026-05-08 12:52:03"}
+{"level":"info","message":"✅ Database connected successfully","timestamp":"2026-05-08 13:15:47"}
+{"level":"info","message":"✅ Redis connected successfully","timestamp":"2026-05-08 13:15:48"}
+{"level":"info","message":"🚀 Server running on port 3000","timestamp":"2026-05-08 13:15:48"}
+{"level":"info","message":"✅ Database connected successfully","timestamp":"2026-05-08 13:19:03"}
+{"level":"info","message":"✅ Redis connected successfully","timestamp":"2026-05-08 13:19:03"}
+{"level":"info","message":"🚀 Server running on port 3000","timestamp":"2026-05-08 13:19:03"}
+{"level":"info","message":"✅ Database connected successfully","timestamp":"2026-05-08 13:19:23"}
+{"level":"info","message":"✅ Redis connected successfully","timestamp":"2026-05-08 13:19:23"}
+{"level":"info","message":"🚀 Server running on port 3000","timestamp":"2026-05-08 13:19:23"}
+{"level":"info","message":"✅ Database connected successfully","timestamp":"2026-05-08 13:29:00"}
+{"level":"info","message":"✅ Redis connected successfully","timestamp":"2026-05-08 13:29:00"}
+{"level":"info","message":"🚀 Server running on port 3000","timestamp":"2026-05-08 13:29:00"}
+{"level":"info","message":"✅ Database connected successfully","timestamp":"2026-05-08 13:53:27"}
+{"level":"info","message":"✅ Redis connected successfully","timestamp":"2026-05-08 13:53:28"}
+{"level":"info","message":"🚀 Server running on port 3000","timestamp":"2026-05-08 13:53:31"}
+{"level":"info","message":"Running session cleanup job...","timestamp":"2026-05-08 14:00:00"}
+{"level":"info","message":"✅ Database connected successfully","timestamp":"2026-05-08 14:04:05"}
+{"level":"info","message":"✅ Redis connected successfully","timestamp":"2026-05-08 14:04:06"}
+{"level":"info","message":"🚀 Server running on port 3000","timestamp":"2026-05-08 14:04:06"}
+{"level":"info","message":"✅ Database connected successfully","timestamp":"2026-05-08 14:27:16"}
+{"level":"info","message":"✅ Redis connected successfully","timestamp":"2026-05-08 14:27:16"}
+{"level":"info","message":"🚀 Server running on port 3000","timestamp":"2026-05-08 14:27:20"}

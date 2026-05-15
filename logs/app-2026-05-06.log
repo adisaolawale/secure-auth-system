@@ -1,0 +1,17 @@
+{"level":"info","message":"✅ Database connected successfully","timestamp":"2026-05-06 15:37:18"}
+{"level":"info","message":"✅ Redis connected successfully","timestamp":"2026-05-06 15:37:19"}
+{"level":"info","message":"🚀 Server running on port 3000","timestamp":"2026-05-06 15:37:19"}
+{"level":"info","message":"✅ Database connected successfully","timestamp":"2026-05-06 15:41:45"}
+{"level":"info","message":"✅ Redis connected successfully","timestamp":"2026-05-06 15:41:46"}
+{"level":"info","message":"🚀 Server running on port 3000","timestamp":"2026-05-06 15:41:46"}
+{"isOperational":true,"level":"error","statusCode":400,"timestamp":"2026-05-06 15:42:32"}
+{"isOperational":true,"level":"error","statusCode":400,"timestamp":"2026-05-06 15:44:15"}
+{"level":"info","message":"✅ Database connected successfully","timestamp":"2026-05-06 16:30:05"}
+{"level":"info","message":"✅ Redis connected successfully","timestamp":"2026-05-06 16:30:06"}
+{"level":"info","message":"🚀 Server running on port 3000","timestamp":"2026-05-06 16:30:06"}
+{"level":"info","message":"✅ Database connected successfully","timestamp":"2026-05-06 16:58:51"}
+{"level":"info","message":"✅ Redis connected successfully","timestamp":"2026-05-06 16:58:56"}
+{"level":"info","message":"🚀 Server running on port 3000","timestamp":"2026-05-06 16:58:57"}
+{"level":"info","message":"✅ Database connected successfully","timestamp":"2026-05-06 17:18:06"}
+{"level":"info","message":"✅ Redis connected successfully","timestamp":"2026-05-06 17:18:07"}
+{"level":"info","message":"🚀 Server running on port 3000","timestamp":"2026-05-06 17:18:07"}

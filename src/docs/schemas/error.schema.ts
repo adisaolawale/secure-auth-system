@@ -1,0 +1,14 @@
+/**
+ *  @swagger
+ *  components:
+ *    schemas:
+ *      Error:
+ *        type: object
+ *        properties:
+ *          success:
+ *            type: boolean
+ *            example: false
+ *          message:
+ *            type: string
+ *            example: "Error message here"
+ */

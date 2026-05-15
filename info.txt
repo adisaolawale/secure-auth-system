@@ -1,0 +1,22 @@
+/auth/register  [POST] - Register a new user
+     /verify-email/{token} [POST] - verify email via token
+     /login  [POST] - Authenticate user and get tokens
+     /google [GET] - Redirect user to Google OAuth
+     /google/callback [GET]  - Google OAuth callback
+     /refresh [POST] - Refresh access token
+     /forgot-password [POST] - Change your password
+     /reset-password/{token} [POST] - Verify your token to change password
+     /logout [DELETE] - Logout and revoke refresh token
+     /logout/{sessionId} [DELETE]  - Logout specific device
+     /logout-all [DELETE] - Logout and revoke all refresh tokens and sessions
+
+
+
+/role  [POST] - Create a new role with permissions 
+    /assign-permission  [POST]  - Assign a specific permission to an existing role
+
+
+
+/user/me  [GET] - Get current user profile
+     /me/password  [PATCH] - Change user password
+     /search  [GET] - Search for users
